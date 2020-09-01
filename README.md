@@ -1,5 +1,14 @@
-### Hi there 👋
+<a href="https://github.com/rangel20" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a>
+<a href="https://www.linkedin.com/in/rangelpcbomfim/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
 
+<br />
+<br />
+### Hi there 👋
+Olá, 
 <!--
 **rangel20/rangel20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
