@@ -48,7 +48,9 @@ Meu nome é <strong>Rangel Paolo</strong>, tenho 23 anos e moro em São Paulo. N
 
 ### Experiências Profissionais
 :computer: Monitor de Informática - Uninove
+
 🛒 Ajudante de Loja - Calvo Atacadista
+
 📦 Empacotador - Supermercado do Carmo (Meu primeiro emprego)
 
 ### O que pretendo aprender
