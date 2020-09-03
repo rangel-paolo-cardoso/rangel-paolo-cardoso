@@ -21,6 +21,7 @@ Meu nome é <strong>Rangel Paolo</strong>, tenho 23 anos e moro em São Paulo. N
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> 
   
 </p>
+
 ### Habilidades de Back-End
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="nodejs" width="50" height="50"/>
