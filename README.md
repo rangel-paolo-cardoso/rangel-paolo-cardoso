@@ -51,9 +51,11 @@ Meu nome é <strong>Rangel Paolo</strong>, tenho 23 anos e moro em São Paulo. N
 📦 Empacotador - Supermercado do Carmo (Meu primeiro emprego)
 
 ### O que pretendo aprender
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" width="60" height="60"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="60" height="60"/>
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" width="60" height="60"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="60" height="60"/>
+</p>
 
 ### Navegador Favorito
 <img src="https://devicons.github.io/devicon/devicon.git/icons/firefox/firefox-original-wordmark.svg" width="60" height="60"/>
