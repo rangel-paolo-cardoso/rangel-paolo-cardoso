@@ -7,19 +7,29 @@
 
 <br />
 <br />
-### Hi there 👋
-Olá, 
-<!--
-**rangel20/rangel20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Seja muito bem-vindo ao meu repositório.
+<br /><br />
+Meu nome é <strong>Rangel Paolo</strong>, tenho 23 anos e moro em São Paulo. Nasci numa pequena cidade da Bahia chamada Botuporã, mas estou morando aqui desde meus 2 anos de idade. Desde pequeno eu amo a tecnologia, embora meus pais achassem ser fantasia da minha cabeça, eu sempre acreditei que um dia existirão carros voadores, provavelmente não irei construí-los, mas talvez eu possa programar seus sistemas.
 
-Here are some ideas to get you started:
+### Formação
+:computer: Desenvolvimento de Software - <strong>Trybe</strong>
+:1234: Licenciatura em Matemática - <strong>Uninove</strong> 2017-2019 (Não concluí)
+:desktop_computer: Análise e Desenvolvimento de Sistemas - <strong>Uninove</strong> 2014-2016
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experiências Profissionais
+Monitor de Informática - Uninove
+Ajudante de Loja - Calvo Atacadista
+Empacotador - Supermercado do Carmo (Meu primeiro emprego)
+
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+</p>
