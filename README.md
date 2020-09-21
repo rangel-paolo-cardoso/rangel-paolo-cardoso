@@ -25,6 +25,7 @@ Meu nome é <strong>Rangel Paolo</strong>, tenho 23 anos e moro em São Paulo. N
 ### Habilidades de Back-End
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="nodejs" width="50" height="50"/>
+  <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="express" width="50" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
