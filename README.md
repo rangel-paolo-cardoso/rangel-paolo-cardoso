@@ -58,7 +58,9 @@ Meu nome é <strong>Rangel Paolo</strong>, tenho 23 anos e moro em São Paulo. N
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" width="60" height="60"/>
+  <img src="https://miro.medium.com/max/300/1*J9d-VtiLfN9APIQgWTP9ow.png" width="60" height="60"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="60" height="60"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png" width="60" height="60"/>
 </p>
 
 ### Navegador Favorito
