@@ -40,6 +40,9 @@ Meu nome é <strong>Rangel Paolo</strong>, tenho 23 anos e moro em São Paulo. N
   <img title="Git" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="mongodb" width="50" height="50"/>
 </p>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rangel20&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangel20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Formação
 :computer: Desenvolvimento de Software - <strong>Trybe</strong> 2020-2021
 
