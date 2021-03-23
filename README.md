@@ -13,31 +13,32 @@ Meu nome é <strong>Rangel Paolo</strong>, tenho 23 anos e moro em São Paulo. N
 
 ### Habilidades de Front-End
 <p align="left">
-  <img title="HTML5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img title="CSS3" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
-  <img title="Javascript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+  <img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
+  <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/> 
+  <img title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
   <img title="Jest" src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="50" height="50" />
-  <img title="ReactJS" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
-  <img title="Redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> 
+  <img title="ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> 
+  <img title="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> 
   
 </p>
 
 ### Habilidades de Back-End
 <p align="left">
-  <img title="Java" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="nodejs" width="50" height="50"/>
-  <img title="NodeJS" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
-<img title="Oracle Database" src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="express" width="50" height="50"/>
-  <img title="MySQL" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
-  <img title="MongoDB" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
+  <img title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+  <img title="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
+  <img title="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
+<img title="Oracle Database" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/>
+  <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/> 
+  <img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
 </p>
 
 ### Essenciais
 <p align="left">
-  <img title="Visual Studio Code" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="mongodb" width="50" height="50"/> 
-  <img title="Ubuntu Linux" src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="mongodb" width="50" height="50"/> 
-  <img title="Slack" src="https://devicons.github.io/devicon/devicon.git/icons/slack/slack-original.svg" alt="mongodb" width="50" height="50"/> 
-  <img title="NPM" src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
-  <img title="Git" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="mongodb" width="50" height="50"/>
+  <img title="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VScode" width="50" height="50"/> 
+  <img title="Ubuntu Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="50" height="50"/> 
+  <img title="Slack" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="50" height="50"/> 
+  <img title="NPM" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> 
+  <img title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rangel20&show_icons=true)
@@ -59,12 +60,12 @@ Meu nome é <strong>Rangel Paolo</strong>, tenho 23 anos e moro em São Paulo. N
 
 ### O que pretendo aprender
 <p align="left">
-  <img title="Bootstrap" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60"/>
-  <img title="Angular" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" width="60" height="60"/>
+  <img title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
+  <img title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="60" height="60"/>
   <img title="Spring Boot" src="https://miro.medium.com/max/300/1*J9d-VtiLfN9APIQgWTP9ow.png" width="60" height="60"/>
-  <img title="Python" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="60" height="60"/>
+  <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
   <img title="Docker" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png" width="60" height="60"/>
 </p>
 
 ### Navegador Favorito
-<img title="Firefox" src="https://devicons.github.io/devicon/devicon.git/icons/firefox/firefox-original-wordmark.svg" width="60" height="60"/>
+<img title="Firefox" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original-wordmark.svg" width="60" height="60"/>
