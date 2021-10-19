@@ -9,9 +9,9 @@
 <br />
 👋 How's it goig? Welcome to my Github repository.
 <br /><br />
-My name is <strong>Rangel Paolo</strong>, I'm 24 and I live in São Paulo. I was born in a little town in the state of Bahia called Botuporã, but I'm living here since I was 2 years old. Since I was a child I love technology, even though my parents think it's just fantasizing inside my head, I'v been always believing that someday will exist flying cars, probably I won't build them, perhaps I could program their systems.
+My name is <strong>Rangel Paolo</strong>, I'm 23 and I've been living in São Paulo. I was born in a little town in the state of Bahia called Botuporã, but I'm living here since I was 2 years old. Since I was a child I love technology, even though my parents think it's just fantasizing inside my head, I'v been always believing that someday will exist flying cars, probably I won't build them, perhaps I could program their systems.
 
-### Habilidades de Front-End
+### Front-End skills
 <p align="left">
   <img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
   <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/> 
@@ -24,7 +24,7 @@ My name is <strong>Rangel Paolo</strong>, I'm 24 and I live in São Paulo. I was
   
 </p>
 
-### Habilidades de Back-End
+### Back-End skills
 <p align="left">
   <img title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
   <img title="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
@@ -34,7 +34,7 @@ My name is <strong>Rangel Paolo</strong>, I'm 24 and I live in São Paulo. I was
   <img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
 </p>
 
-### Essenciais
+### Essentials
 <p align="left">
   <img title="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VScode" width="50" height="50"/> 
   <img title="Ubuntu Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="50" height="50"/> 
@@ -47,20 +47,22 @@ My name is <strong>Rangel Paolo</strong>, I'm 24 and I live in São Paulo. I was
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangel20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Formação
-:computer: Desenvolvimento de Software - <strong>Trybe</strong> 2020-2021
+:computer: Software Develoment - <strong>Trybe</strong> 2020-2021
 
-:1234:🧑‍🏫 Licenciatura em Matemática - <strong>Uninove</strong> 2017-2019 (Não concluí)
+:1234:🧑‍🏫 Licenciate Degree Mathematics - <strong>Uninove</strong> 2017-2019
 
-:desktop_computer: Análise e Desenvolvimento de Sistemas - <strong>Uninove</strong> 2014-2016
+:desktop_computer: Systems analysis - <strong>Uninove</strong> 2014-2016
 
-### Experiências Profissionais
-:computer: Monitor de Informática - Uninove
+### Professional experience
+:computer: Junior fullstack developer - Conta Zap
 
-🛒 Ajudante de Loja - Calvo Atacadista
+:computer: Informatics professor - Uninove
 
-📦 Empacotador - Supermercado do Carmo (Meu primeiro emprego)
+🛒 Supermarket helper - Calvo Atacadista
 
-### O que pretendo aprender
+📦 Supermarket packer - Supermercado do Carmo (My first job)
+
+### What I'm inttending to learn
 <p align="left">
   <img title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
   <img title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="60" height="60"/>
@@ -69,5 +71,5 @@ My name is <strong>Rangel Paolo</strong>, I'm 24 and I live in São Paulo. I was
   <img title="Docker" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png" width="60" height="60"/>
 </p>
 
-### Navegador Favorito
+### My favorite browser
 <img title="Firefox" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original-wordmark.svg" width="60" height="60"/>
