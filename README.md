@@ -62,7 +62,7 @@ My name is <strong>Rangel Paolo</strong>, I'm 23 and I've been living in São Pa
 
 📦 Supermarket packer - Supermercado do Carmo (My first job)
 
-### What I'm inttending to learn
+### What I'm intending to learn
 <p align="left">
   <img title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
   <img title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="60" height="60"/>
