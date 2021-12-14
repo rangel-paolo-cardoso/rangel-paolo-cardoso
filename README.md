@@ -27,11 +27,9 @@ My name is <strong>Rangel Paolo</strong>, I'm 25 and I've been living in São Pa
   <tbody>
     <tr>
       <td>Portuguese</td>
-      <td>Native</td>
-      <td>Native</td>
-      <td>Native</td>
-      <td>Native</td>
-      <td><b>Native</b></td>
+      <td colspan="5" style="text-align: center">
+        <b>Native</b>
+      </td>
     </tr>
     <tr>
       <td>English</td>
