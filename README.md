@@ -9,7 +9,74 @@
 <br />
 👋 How's it goig? Welcome to my Github repository.
 <br /><br />
-My name is <strong>Rangel Paolo</strong>, I'm 23 and I've been living in São Paulo. I was born in a little town in the state of Bahia called Botuporã, but I'm living here since I was 2 years old. Since I was a child I love technology, even though my parents think it's just fantasizing inside my head, I'v been always believing that someday will exist flying cars, probably I won't build them, perhaps I could program their systems.
+My name is <strong>Rangel Paolo</strong>, I'm 25 and I've been living in São Paulo. I was born in a little town in the state of Bahia called Botuporã, but I'm living here since I was 2 years old. Since I was a child I love technology, even though my parents think it's just fantasizing inside my head, I'v been always believing that someday will exist flying cars, probably I won't build them, perhaps I could program their systems.
+<br />
+
+## Languages (according to tests I have been taken).
+<table style="border: 2px solid blue">
+  <thead>
+    <tr>
+      <th>Language</th>
+      <th>Reading</th>
+      <th>Writing</th>
+      <th>Speaking</th>
+      <th>Listening</th>
+      <th>General</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Portuguese</td>
+      <td>Native</td>
+      <td>Native</td>
+      <td>Native</td>
+      <td>Native</td>
+      <td><b>Native</b></td>
+    </tr>
+    <tr>
+      <td>English</td>
+      <td>C1</td>
+      <td>B2</td>
+      <td>B1</td>
+      <td>B1</td>
+      <td><b>B2</b></td>
+    </tr>
+    <tr>
+      <td>Polskie</td>
+      <td>A0</td>
+      <td>A0</td>
+      <td>A0</td>
+      <td>A0</td>
+      <td><b>A0</b></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr style="text-align: center;">
+      <td colspan="6">
+        <b>Europass</b>
+      </td>
+    </tr>
+    <tr style="text-align: center;">
+      <td colspan="6">
+        <a>
+          https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/342baf9d-7f2a-4b75-bfd7-66c5f78622d7?view=html
+        </a>
+      </td>
+    </tr>
+    <tr style="text-align: center;">
+      <td colspan="6">
+        <b>EF SET English Score</b>
+      </td>
+    </tr>
+    <tr style="text-align: center;">
+      <td colspan="6">
+        <a>
+          https://www.efset.org/cert/4Fw5zc
+        </a>
+      </td>
+    </tr>
+  </tfoot>
+</table>
 
 ### Front-End skills
 <p align="left">
