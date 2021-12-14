@@ -24,7 +24,7 @@ My name is <strong>Rangel Paolo</strong>, I'm 25 and I've been living in São Pa
       <th>General</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="border: 2px solid blue">
     <tr>
       <td>Portuguese</td>
       <td>Native</td>
@@ -53,25 +53,15 @@ My name is <strong>Rangel Paolo</strong>, I'm 25 and I've been living in São Pa
   <tfoot>
     <tr style="text-align: center;">
       <td colspan="6">
-        <b>Europass</b>
-      </td>
-    </tr>
-    <tr style="text-align: center;">
-      <td colspan="6">
-        <a>
-          https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/342baf9d-7f2a-4b75-bfd7-66c5f78622d7?view=html
+        <a href="https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/342baf9d-7f2a-4b75-bfd7-66c5f78622d7?view=html">
+          Europass
         </a>
       </td>
     </tr>
     <tr style="text-align: center;">
       <td colspan="6">
-        <b>EF SET English Score</b>
-      </td>
-    </tr>
-    <tr style="text-align: center;">
-      <td colspan="6">
-        <a>
-          https://www.efset.org/cert/4Fw5zc
+        <a href="https://www.efset.org/cert/4Fw5zc">
+          EF SET Engçish Score
         </a>
       </td>
     </tr>
