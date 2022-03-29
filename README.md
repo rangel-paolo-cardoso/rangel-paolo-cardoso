@@ -100,6 +100,7 @@ My name is <strong>Rangel Paolo</strong>, I'm 25 and I've been living in São Pa
   <img title="Slack" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="50" height="50"/> 
   <img title="NPM" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> 
   <img title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
+  <img title="Docker" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png" width="60" height="60"/>
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rangel20&show_icons=true)
@@ -129,7 +130,6 @@ My name is <strong>Rangel Paolo</strong>, I'm 25 and I've been living in São Pa
   <img title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="60" height="60"/>
   <img title="Spring Boot" src="https://miro.medium.com/max/300/1*J9d-VtiLfN9APIQgWTP9ow.png" width="60" height="60"/>
   <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
-  <img title="Docker" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png" width="60" height="60"/>
 </p>
 
 ### My favorite browser
