@@ -105,14 +105,16 @@ My name is <strong>Rangel Paolo</strong>, I'm 25 and I've been living in São Pa
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rangel20&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangel20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Formação
+### Education
 :computer: Software Develoment - <strong>Trybe</strong> 2020-2021
 
 :1234:🧑‍🏫 Licenciate Degree Mathematics - <strong>Uninove</strong> 2017-2019
 
 :desktop_computer: Systems analysis - <strong>Uninove</strong> 2014-2016
 
-### Professional experience
+### Experience
+:computer: Junior fullstack developer - IBM
+
 :computer: Junior fullstack developer - Conta Zap
 
 :computer: Informatics professor - Uninove
