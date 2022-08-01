@@ -7,9 +7,9 @@
 
 <br />
 <br />
-👋 How's it goig? Welcome to my Github repository.
+👋 How's it going? Welcome to my Github repository.
 <br /><br />
-My name is <strong>Rangel Paolo</strong>, I'm 25 and I've been living in São Paulo. I was born in a little town in the state of Bahia called Botuporã, but I'm living here since I was 2 years old. Since I was a child I love technology, even though my parents think it's just fantasizing inside my head, I'v been always believing that someday will exist flying cars, probably I won't build them, perhaps I could program their systems.
+My name is <strong>Rangel Paolo</strong>, I'm 25 and I've been living in São Paulo. I was born in a little town in the state of Bahia called Botuporã, but I've been living here since I was 2 years old. Since I was a child I have loved technology, even though my parents think it's just fantasizing inside my head, I've been always believing that someday flying cars will exist, and probably I won't build them, perhaps I could program their systems.
 <br />
 
 ## Languages (according to tests I have been taken).
@@ -43,7 +43,7 @@ My name is <strong>Rangel Paolo</strong>, I'm 25 and I've been living in São Pa
     </tr>
     <tr>
       <td>Polskie</td>
-      <td>A0</td>
+      <td>A1</td>
       <td>A0</td>
       <td>A0</td>
       <td>A0</td>
@@ -107,11 +107,11 @@ My name is <strong>Rangel Paolo</strong>, I'm 25 and I've been living in São Pa
 :desktop_computer: Systems analysis - <strong>Uninove</strong> 2014-2016
 
 ### Experience
-:computer: Junior fullstack developer - IBM
+:computer: Fullstack Developer - <strong><a href="https://www.ibm.com/">IBM (On going)</a></strong>
 
-:computer: Junior fullstack developer - Conta Zap
+:computer: Fullstack Developer - <a href="https://contazap.com.br/">Conta Zap</a>
 
-:computer: Informatics professor - Uninove
+:computer: Informatics professor - <a href="https://www.uninove.br/">Uninove</a>
 
 🛒 Supermarket helper - Calvo Atacadista
 
