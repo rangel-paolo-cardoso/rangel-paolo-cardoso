@@ -37,8 +37,8 @@ My name is <strong>Rangel Paolo</strong>, I'm 25 and I've been living in São Pa
       <td>English</td>
       <td>C1</td>
       <td>B2</td>
+      <td>C1</td>
       <td>B2</td>
-      <td>B1</td>
       <td><b>B2</b></td>
     </tr>
     <tr>
