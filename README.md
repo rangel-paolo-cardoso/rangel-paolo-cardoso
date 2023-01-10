@@ -9,7 +9,7 @@
 <br />
 👋 How's it going? Welcome to my Github repository.
 <br /><br />
-My name is <strong>Rangel Paolo</strong>, I'm 25 and I've been living in São Paulo. I was born in a little town in the state of Bahia called Botuporã, but I've been living here since I was 2 years old. Since I was a child I have loved technology, even though my parents think it's just fantasizing inside my head, I've been always believing that someday flying cars will exist, and probably I won't build them, perhaps I could program their systems.
+My name is <strong>Rangel Paolo</strong>, I'm 26 and I've been living in São Paulo. I was born in a little town in the state of Bahia called Botuporã, but I've been living here since I was 2 years old. Since I was a child I have loved technology, even though my parents think it's just fantasizing inside my head, I've been always believing that someday flying cars will exist, and probably I won't build them, perhaps I could program their systems.
 <br />
 
 ## Languages (according to tests I have taken).
