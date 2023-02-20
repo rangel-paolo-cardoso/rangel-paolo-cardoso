@@ -9,10 +9,10 @@
 <br />
 👋 How's it going? Welcome to my Github repository.
 <br /><br />
-My name is <strong>Rangel Paolo</strong>, I'm 26 and I've been living in São Paulo. I was born in a little town in the state of Bahia called Botuporã, but I've been living here since I was 2 years old. Since I was a child I have loved technology, even though my parents think it's just fantasizing inside my head, I've been always believing that someday flying cars will exist, and probably I won't build them, perhaps I could program their systems.
+My name is <strong>Rangel Paolo</strong>, and I'm 26. Ever since childhood, I have loved technology even though my parents think it's just fantasizing inside my head. I always believed that someday flying cars would exist, and I won't build them, but perhaps I could program their systems.
 <br />
 
-## Languages (according to tests I have taken).
+## Languages
 <table style="border: 2px solid blue">
   <thead>
     <tr>
@@ -112,10 +112,6 @@ My name is <strong>Rangel Paolo</strong>, I'm 26 and I've been living in São Pa
 :computer: Fullstack Developer - <a href="https://contazap.com.br/">Conta Zap</a>
 
 :computer: Informatics professor - <a href="https://www.uninove.br/">Uninove</a>
-
-🛒 Supermarket helper - Calvo Atacadista
-
-📦 Supermarket packer - Supermercado do Carmo (My first job)
 
 ### What I'm intending to learn
 <p align="left">
