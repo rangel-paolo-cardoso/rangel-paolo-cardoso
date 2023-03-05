@@ -86,6 +86,8 @@ My name is <strong>Rangel Paolo</strong>, and I'm 26. Ever since childhood, I ha
 <p align="left">
   <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
 
+  <img title="Quarkus" src="https://www.svgviewer.dev/static-svgs/14409/quarkus-icon.svg" alt="Qaurkus" width="45" height="45" />
+
   <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45" />
 
   <img title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45" />
@@ -98,6 +100,8 @@ My name is <strong>Rangel Paolo</strong>, and I'm 26. Ever since childhood, I ha
 
   <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45" />
 
+  <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45" />          
+
   <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45" />
 </p>
 
@@ -105,11 +109,15 @@ My name is <strong>Rangel Paolo</strong>, and I'm 26. Ever since childhood, I ha
 <p align="left">  
   <img title="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="45" height="45" />
   
-  <img title="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="45" height="45" /> 
+  <img title="Maven" src="https://www.svgrepo.com/show/354051/maven.svg" alt="Maven" width="45" height="45" /> 
   
   <img title="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="45" height="45" />
   
   <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45" />
+
+  <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="45" height="45" />
+
+  <img title="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="45" height="45" />
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rangel20&show_icons=true)
@@ -123,7 +131,7 @@ My name is <strong>Rangel Paolo</strong>, and I'm 26. Ever since childhood, I ha
 :desktop_computer: Systems analysis - <strong>Uninove</strong> 2014-2016
 
 ### Experience
-:computer: Fullstack Developer - <strong><a href="https://www.ibm.com/">IBM (On going)</a></strong>
+:computer: Java Software Developer - <strong><a href="https://www.ibm.com/">IBM (On going)</a></strong>
 
 :computer: Fullstack Developer - <a href="https://contazap.com.br/">Conta Zap</a>
 
