@@ -13,46 +13,30 @@ My name is <strong>Rangel Paolo</strong>, and I'm 26. Ever since childhood, I ha
 <br />
 
 ## Languages
-<table style="border: 2px solid blue">
+<table>
   <thead>
     <tr>
       <th>Language</th>
-      <th>Reading</th>
-      <th>Writing</th>
-      <th>Speaking</th>
-      <th>Listening</th>
-      <th>General</th>
+      <th>Level</th>
     </tr>
   </thead>
-  <tbody style="border: 2px solid blue">
+  <tbody style="border: 1px solid blue">
     <tr>
       <td>Portuguese</td>
       <td>Native</td>
-      <td>Native</td>
-      <td>Native</td>
-      <td>Native</td>
-      <td><b>Native</b></td>
     </tr>
     <tr>
       <td>English</td>
-      <td>C1</td>
       <td>B2</td>
-      <td>C1</td>
-      <td>B2</td>
-      <td><b>B2</b></td>
     </tr>
     <tr>
       <td>Polskie</td>
-      <td>A1</td>
       <td>A0</td>
-      <td>A0</td>
-      <td>A0</td>
-      <td><b>A0</b></td>
     </tr>
   </tbody>
   <tfoot>
-    <tr style="text-align: center;">
-      <td colspan="6">
+    <tr style="text-align: left;">
+      <td colspan="2">
         <a href="https://www.efset.org/cert/4Fw5zc" target="_blank">
           EF SET English Score
         </a>
@@ -126,16 +110,12 @@ My name is <strong>Rangel Paolo</strong>, and I'm 26. Ever since childhood, I ha
 ### Education
 :computer: Software Develoment - <strong>Trybe</strong> 2020-2021
 
-:1234:🧑‍🏫 Licenciate Degree Mathematics - <strong>Uninove</strong> 2017-2019
-
 :desktop_computer: Systems analysis - <strong>Uninove</strong> 2014-2016
 
 ### Experience
 :computer: Java Software Developer - <strong><a href="https://www.ibm.com/">IBM (On going)</a></strong>
 
 :computer: Fullstack Developer - <a href="https://contazap.com.br/">Conta Zap</a>
-
-:computer: Informatics professor - <a href="https://www.uninove.br/">Uninove</a>
 
 ### What I'm intending to learn
 <p align="left">
