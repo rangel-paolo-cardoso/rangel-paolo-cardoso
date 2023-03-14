@@ -113,9 +113,9 @@ My name's <strong>Rangel Paolo Cardoso Bomfim</strong>, but you can call me only
 :desktop_computer: Systems analysis - <strong>Uninove</strong> 2014-2016
 
 ### Experience
-:computer: Java Software Developer - <strong><a href="https://www.ibm.com/">IBM (On going)</a></strong>
+:computer: Java Software Developer - <strong><a href="https://www.ibm.com/">IBM (<em>10/01/2022 - </em>On going)</a></strong>
 
-:computer: Fullstack Developer - <a href="https://contazap.com.br/">Conta Zap</a>
+:computer: Fullstack Developer - <a href="https://contazap.com.br/">Conta Zap <em>(05/10/2020 - 10/01/2022)</em></a>
 
 ### What I'm intending to learn
 <p align="left">
