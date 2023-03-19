@@ -70,6 +70,8 @@ My name's <strong>Rangel Paolo Cardoso Bomfim</strong>, but you can call me only
 <p align="left">
   <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
 
+  <img title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="45" height="45" />
+
   <img title="Quarkus" src="https://www.svgviewer.dev/static-svgs/14409/quarkus-icon.svg" alt="Qaurkus" width="45" height="45" />
 
   <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45" />
@@ -122,8 +124,6 @@ My name's <strong>Rangel Paolo Cardoso Bomfim</strong>, but you can call me only
   <img title="Boostrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Boostrap" width="45" height="45" />
           
   <img title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45" />
-  
-  <img title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring boot" width="45" height="45" />
   
   <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45" />
 </p>
