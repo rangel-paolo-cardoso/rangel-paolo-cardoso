@@ -23,15 +23,15 @@ My name's <strong>Rangel Paolo Cardoso Bomfim</strong>, but you can call me only
   <tbody style="border: 1px solid blue">
     <tr>
       <td>Portuguese</td>
-      <td>Native</td>
+      <td>Mother tongue</td>
     </tr>
     <tr>
       <td>English</td>
-      <td>B2</td>
+      <td>Fluent (active practitioner)</td>
     </tr>
     <tr>
       <td>Polskie</td>
-      <td>A0</td>
+      <td>Beginner (learning)</td>
     </tr>
   </tbody>
   <tfoot>
