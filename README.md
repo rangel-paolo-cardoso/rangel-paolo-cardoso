@@ -1,9 +1,9 @@
-<a href="https://rangel20.github.io/" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a>
-<a href="https://www.linkedin.com/in/rangelcardoso/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
+<div>
+<img align="right" alt="PC GIF" src="https://blog.imarticus.org/wp-content/uploads/2021/12/bwgg.gif" width = "50%" />
+</div>
+
+![Profile views](https://gpvc.arturio.dev/rangel20)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rangelcardoso/)](https://www.linkedin.com/in/rangelcardoso/)
 
 #### 👋
 How's it going? Welcome to my Github repository.
