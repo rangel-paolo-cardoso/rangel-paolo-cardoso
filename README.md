@@ -49,7 +49,7 @@ How's it going? Welcome to my Github repository.
 ### Experience
 :computer: <strong>Java Software Developer</strong> - <strong><a href="https://www.ibm.com/">IBM (<em>10/01/2022 - </em>On going)</a></strong>
 <em>Technologies</em>
-<div>
+<div style="background-color:white;">
   <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
 
   <img title="Quarkus" src="https://www.svgviewer.dev/static-svgs/14409/quarkus-icon.svg" alt="Qaurkus" width="40" height="40" />
@@ -64,7 +64,7 @@ How's it going? Welcome to my Github repository.
 :computer: Fullstack Developer - <a href="https://contazap.com.br/">Conta Zap <em>(05/10/2020 - 10/01/2022)</em></a>
 
 <em>Technologies</em>
-<div>
+<div style="background-color:white;">
   <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML 5" width="40" height="40" />
 
   <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS 3" width="40" height="40" />
@@ -91,7 +91,7 @@ How's it going? Welcome to my Github repository.
 </div>
 
 ### Other Skills
-<p align="left">
+<dev align="left" style="background-color:white;">
   <img title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="45" height="45" />
 
   <img title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Database" width="45" height="45" />
@@ -99,10 +99,10 @@ How's it going? Welcome to my Github repository.
   <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45" />
 
   <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45" />
-</p>
+</dev>
 
 ### Essentials
-<p align="left">  
+<div align="left" style="background-color:white;">  
   <img title="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40" />
   
   <img title="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40" />
@@ -112,13 +112,13 @@ How's it going? Welcome to my Github repository.
   <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" />
 
   <img title="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="40" height="40" />
-</p>
+</div>
 
 ### What I'm intending to learn
-<p align="left">
+<div align="left" style="background-color:white;">
   <img title="Boostrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Boostrap" width="40" height="40" />
           
   <img title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" />
   
   <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" />
-</p>
+</div>
