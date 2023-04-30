@@ -91,7 +91,7 @@ How's it going? Welcome to my Github repository.
 </div>
 
 ### Other Skills
-<dev align="left" style="background-color:white;">
+<div align="left" style="background-color:white;">
   <img title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="45" height="45" />
 
   <img title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Database" width="45" height="45" />
@@ -99,7 +99,7 @@ How's it going? Welcome to my Github repository.
   <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45" />
 
   <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45" />
-</dev>
+</div>
 
 ### Essentials
 <div align="left" style="background-color:white;">  
