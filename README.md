@@ -92,13 +92,19 @@ How's it going? Welcome to my Github repository.
 
 ### Other Skills
 <div align="left">
-  <img title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="45" height="45" />
+  <img title="Spring Framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Framework" width="40" height="40" />
 
-  <img title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Database" width="45" height="45" />
+  <img title="Spring Boot" src="https://subshell.com/logos/spring-boot-logo100~1x1small.1643731529156.jpg" alt="Spring Boot" width="40" height="40" />
 
-  <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45" />
+  <img title="Hibernate" src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" alt="Hibernate" width="40" height="40" />
 
-  <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45" />
+  <img title="Thymeleaf" src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="40" height="40" />
+
+  <img title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Database" width="40" height="40" />
+
+  <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+
+  <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
 </div>
 
 ### Essentials
