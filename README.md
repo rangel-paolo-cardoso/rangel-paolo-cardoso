@@ -43,8 +43,12 @@ How's it going? Welcome to my Github repository.
   </tfoot>
 </table>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rangel20&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangel20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Rangel's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rangel20&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangel20&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rangel20&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ### Experience
 :computer: <strong>Java Software Developer</strong> - <strong><a href="https://www.ibm.com/">IBM (<em>10/01/2022 - </em>On going)</a></strong>
