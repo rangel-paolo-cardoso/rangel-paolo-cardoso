@@ -54,9 +54,13 @@ How's it going? Welcome to my Github repository.
 :computer: <strong>Java Software Developer</strong> - <strong><a href="https://www.ibm.com/">IBM (<em>10/01/2022 - </em>On going)</a></strong>
 <em>Technologies</em>
 <div>
-  <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
 
-  <img title="Quarkus" src="https://www.svgviewer.dev/static-svgs/14409/quarkus-icon.svg" alt="Qaurkus" width="40" height="40" />
+  <img title="Quarkus" src="https://www.svgviewer.dev/static-svgs/14409/quarkus-icon.svg" alt="Quarkus" width="40" height="40" />
+
+  <img title="JUnit" src="https://avatars.githubusercontent.com/u/874086?v=4&s=400" alt="JUnit" width="40" height="40" />
+
+  <img title="Mockito" src="https://www.saashub.com/images/app/service_logos/65/d7a37ef7f17b/large.png" alt="Mockito" width="40" height="40" />
 
   <img title="Hibernate" src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" alt="Hibernate" width="40" height="40" />
 
