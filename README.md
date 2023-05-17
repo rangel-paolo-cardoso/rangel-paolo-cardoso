@@ -58,6 +58,8 @@ How's it going? Welcome to my Github repository.
 
   <img title="Quarkus" src="https://www.svgviewer.dev/static-svgs/14409/quarkus-icon.svg" alt="Qaurkus" width="40" height="40" />
 
+  <img title="Hibernate" src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" alt="Hibernate" width="40" height="40" />
+
   <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
 
   <img title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
@@ -100,8 +102,6 @@ How's it going? Welcome to my Github repository.
 
   <img title="Spring Boot" src="https://subshell.com/logos/spring-boot-logo100~1x1small.1643731529156.jpg" alt="Spring Boot" width="40" height="40" />
 
-  <img title="Hibernate" src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" alt="Hibernate" width="40" height="40" />
-
   <img title="Thymeleaf" src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="40" height="40" />
 
   <img title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Database" width="40" height="40" />
@@ -124,10 +124,11 @@ How's it going? Welcome to my Github repository.
   <img title="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="40" height="40" />
 </div>
 
+### What I'm learning
+<img title="Boostrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Boostrap" width="40" height="40" />
+
 ### What I'm intending to learn
-<div align="left">
-  <img title="Boostrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Boostrap" width="40" height="40" />
-          
+<div align="left">          
   <img title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" />
   
   <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" />
