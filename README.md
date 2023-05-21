@@ -44,7 +44,7 @@ How's it going? Welcome to my Github repository.
 </table>
 
 
-[![Rangel's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rangel20&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Rangel's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rangel20&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangel20&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
