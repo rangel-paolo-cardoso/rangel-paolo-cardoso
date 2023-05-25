@@ -20,15 +20,15 @@ How's it going? Welcome to my Github repository.
   </thead>
   <tbody style="border: 1px solid blue">
     <tr>
-      <td>Portuguese</td>
+      <td>Portuguese 🇧🇷</td>
       <td>Mother tongue</td>
     </tr>
     <tr>
-      <td>English</td>
+      <td>English 🇺🇸</td>
       <td>Fluent (active practitioner)</td>
     </tr>
     <tr>
-      <td>Polskie</td>
+      <td>Polskie 🇵🇱</td>
       <td>Beginner (learning)</td>
     </tr>
   </tbody>
