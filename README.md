@@ -35,7 +35,7 @@ How's it going? Welcome to my Github repository.
   <tfoot>
     <tr style="text-align: left;">
       <td colspan="2">
-        <a href="https://www.efset.org/cert/4Fw5zc" target="_blank">
+        <a href="https://www.efset.org/cert/XmraJi" target="_blank">
           EF SET English Score
         </a>
       </td>
