@@ -2,9 +2,8 @@
 <img align="right" alt="PC GIF" src="https://blog.imarticus.org/wp-content/uploads/2021/12/bwgg.gif" width = "50%" />
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rangelcardoso/)](https://www.linkedin.com/in/rangelcardoso/)
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rangel_paolo/)](https://www.instagram.com/rangel_paolo/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rangelcardoso/)](https://www.linkedin.com/in/rangelcardoso/) - [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rangel_paolo/)](https://www.instagram.com/rangel_paolo/) - [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rangelpaolo.cardosobomfim/)](https://www.facebook.com/rangelpaolo.cardosobomfim/)
 
 
 #### 👋
