@@ -9,6 +9,8 @@
 #### 👋
 How's it going? Welcome to my Github repository.
 
+Almost 3 years working as a Software Developer. 😀
+
 <strong>Rangel Paolo Cardoso Bomfim</strong> is my complete name, but you can call me only <strong>Rangel Cardoso</strong>, and I'm 26. Ever since childhood, I have loved technology even though my parents think it's just fantasizing inside my head. I always believed that someday flying cars would exist, and I won't build them, but perhaps I could program their systems.
 
 ## Languages
