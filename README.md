@@ -19,20 +19,53 @@ Almost 3 years working as a Software Developer. 😀
     <tr>
       <th>Language</th>
       <th>Level</th>
+      <th>Difficulty</th>
+      <th>Frequency of use</th>
+      <th>Learning since</th>
     </tr>
   </thead>
   <tbody style="border: 1px solid blue">
     <tr>
-      <td>Portuguese 🇧🇷</td>
-      <td>Mother tongue</td>
+      <td>Portuguese <i title="Brazilian Portuguese">🇧🇷</i></td>
+      <td>Native</td>
+      <td>Medium</td>
+      <td>Every day, All day</td>
+      <td>Ever</td>
     </tr>
     <tr>
-      <td>English 🇺🇸</td>
-      <td>Fluent (active practitioner)</td>
+      <td>English <i title="American English">🇺🇸</i></td>
+      <td>Advanced</td>
+      <td>Easy</td>
+      <td>Every day, All day</td>
+      <td>2017</td>
     </tr>
     <tr>
-      <td>Polskie 🇵🇱</td>
+      <td>Polskie <i title="Polish">🇵🇱</i></td>
       <td>Beginner (learning)</td>
+      <td>Difficult</td>
+      <td>20 minutes a day</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Italiano <i title="Italian">🇮🇹</i></td>
+      <td>Rookie (learning)</td>
+      <td>Easy</td>
+      <td>15 minutes a day</td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td>Română <i title="Romanian">🇷🇴</i></td>
+      <td>Rookie (learning)</td>
+      <td>Medium</td>
+      <td>5 minutes a day</td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td>Русский <i title="Russian">🇷🇺</i></td>
+      <td>Struggling with the alphabet yet</td>
+      <td>Difficult</td>
+      <td>No use yet</td>
+      <td>2023</td>
     </tr>
   </tbody>
   <tfoot>
@@ -131,6 +164,8 @@ Almost 3 years working as a Software Developer. 😀
 
 ### What I'm learning
 <img title="Boostrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Boostrap" width="40" height="40" />
+
+<img title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40" />
 
 ### What I'm intending to learn
 <div align="left">          
