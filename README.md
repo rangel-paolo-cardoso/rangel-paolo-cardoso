@@ -3,7 +3,8 @@
 </div>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rangelcardoso/)](https://www.linkedin.com/in/rangelcardoso/) - [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rangel_paolo/)](https://www.instagram.com/rangel_paolo/) - [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rangelpaolo.cardosobomfim/)](https://www.facebook.com/rangelpaolo.cardosobomfim/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rangelcardoso/)](https://www.linkedin.com/in/rangelcardoso/) - [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rangel_paolo/)](https://www.instagram.com/rangel_paolo/) - [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rangelpaolo.cardosobomfim/)](https://www.facebook.com/rangelpaolo.cardosobomfim/) - [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/@RangelPaoloCardoso)](https://www.youtube.com/@RangelPaoloCardoso)
+
 
 
 #### 👋
