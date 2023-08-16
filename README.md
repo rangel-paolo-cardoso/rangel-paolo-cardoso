@@ -27,43 +27,50 @@ Almost 3 years working as a Software Developer. 😀
   </thead>
   <tbody style="border: 1px solid blue">
     <tr>
-      <td>Portuguese <i title="Brazilian Portuguese">:brazil:</i></td>
+      <td>Portuguese<i title="Brazilian Portuguese">:brazil:</i></td>
       <td>Native</td>
       <td>Medium</td>
       <td>Every day, All day</td>
       <td>Ever</td>
     </tr>
     <tr>
-      <td>English <i title="American English">:us:</i></td>
+      <td>English<i title="American English">:us:</i></td>
       <td>Advanced</td>
       <td>Easy</td>
       <td>Every day, All day</td>
       <td>2017</td>
     </tr>
     <tr>
-      <td>Polskie <i title="Polish">:poland:</i></td>
+      <td>Polskie<i title="Polish">:poland:</i></td>
       <td>Beginner (learning)</td>
       <td>Difficult</td>
       <td>20 minutes a day</td>
       <td>2022</td>
     </tr>
     <tr>
-      <td>Italiano <i title="Italian">:it:</i></td>
+      <td>Italiano<i title="Italian">:it:</i></td>
       <td>Rookie (learning)</td>
       <td>Easy</td>
       <td>15 minutes a day</td>
       <td>2023</td>
     </tr>
     <tr>
-      <td>Română <i title="Romanian">:romania:</i></td>
+      <td>Română<i title="Romanian">:romania:</i></td>
       <td>Rookie (learning)</td>
       <td>Medium</td>
       <td>5 minutes a day</td>
       <td>2023</td>
     </tr>
     <tr>
-      <td>Русский <i title="Russian">:ru:</i></td>
+      <td>Русский<i title="Russian">:ru:</i></td>
       <td>Struggling with the alphabet yet</td>
+      <td>Difficult</td>
+      <td>No use yet</td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td>Deutsch<i title="German">:de:</i></td>
+      <td>Rookie (Getting started in August)</td>
       <td>Difficult</td>
       <td>No use yet</td>
       <td>2023</td>
