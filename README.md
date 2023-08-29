@@ -31,11 +31,11 @@ Almost 3 years working as a Software Developer. 😀
     </tr>
   </tbody>
 </table>
-### Foreign languages
+
 <table>
   <thead>
     <tr>
-      <th>Language</th>
+      <th>Foreign Language</th>
       <th>Level</th>
       <th>Difficulty</th>
       <th>Frequency of use</th>
