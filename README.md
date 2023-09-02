@@ -7,11 +7,16 @@
 
 
 ## 👋
-Como vai? :brazil:
-How's it going? :us:
-Jak się masz? :poland:
-Wie geht's? :de:
-Come stai? :it:
+Como vai? :brazil:  
+
+How's it going? :us:  
+
+Jak się masz? :poland:  
+
+Wie geht's? :de:  
+
+Come stai? :it:  
+
 Ce mai faci? :romania:
 
 # Welcome to my Github repository.
@@ -21,87 +26,21 @@ Ce mai faci? :romania:
 <strong>Rangel Paolo Cardoso Bomfim</strong> is my complete name, but you can call me only <strong>Rangel Cardoso</strong>, and I'm 26. Ever since childhood, I have loved technology even though my parents think it's just fantasizing inside my head. I always believed that someday flying cars would exist, and I won't build them, but perhaps I could program their systems.
 
 ## Languages
-<table>
-  <thead>
-    <tr>
-      <th>Mother tongue</th>
-      <th>Level</th>
-      <th>Difficulty</th>
-    </tr>
-  </thead>
-  <tbody style="border: 1px solid blue">
-    <tr>
-      <td>Portuguese<i title="Brazilian Portuguese">:brazil:</i>🥇</td>
-      <td>Native</td>
-      <td>Medium</td>
-    </tr>
-  </tbody>
-</table>
 
-<table>
-  <thead>
-    <tr>
-      <th>Foreign Language</th>
-      <th>Level</th>
-      <th>Difficulty</th>
-      <th>Frequency of use</th>
-      <th>Learning since</th>
-    </tr>
-  </thead>
-  <tbody style="border: 1px solid blue">
-    <tr>
-      <td>English<i title="American English">:us:</i>🥈</td>
-      <td>Advanced</td>
-      <td>Easy</td>
-      <td>Every day, All day</td>
-      <td>2017</td>
-    </tr>
-    <tr>
-      <td>Polskie<i title="Polish">:poland:</i>🥉</td>
-      <td>Beginner (learning)</td>
-      <td>Difficult</td>
-      <td>10 minutes a day</td>
-      <td>2022</td>
-    </tr>
-    <tr>
-      <td>Deutsch<i title="German">:de:</i></td>
-      <td>Rookie (Getting started in August)</td>
-      <td>Difficult</td>
-      <td>20 minutes a day</td>
-      <td>2023</td>
-    </tr>
-    <tr>
-      <td>Italiano<i title="Italian">:it:</i></td>
-      <td>Rookie (learning)</td>
-      <td>Easy</td>
-      <td>Taking a break</td>
-      <td>2023</td>
-    </tr>
-    <tr>
-      <td>Română<i title="Romanian">:romania:</i></td>
-      <td>Rookie (learning)</td>
-      <td>Medium</td>
-      <td>Taking a break</td>
-      <td>2023</td>
-    </tr>
-    <!-- <tr>
-      <td>Русский<i title="Russian">:ru:</i></td>
-      <td>Struggling with the alphabet yet</td>
-      <td>Difficult</td>
-      <td>Taking a break</td>
-      <td>2023</td>
-    </tr> -->
-  </tbody>
-  <tfoot>
-    <tr style="text-align: left;">
-      <td colspan="2">
-        <a href="https://www.efset.org/cert/XmraJi" target="_blank">
-          EF SET English Score
-        </a>
-      </td>
-    </tr>
-  </tfoot>
-</table>
+Mother tongue        | Level  | Difficulty
+-------------------- | -----  | ----------
+Portuguese :brazil:🥇| Native | Medium
+
+
+Foreign Language    | Level    | Difficulty | Frequency of use   | Learning since
+------------------- | -------- | ---------- | ------------------ | --------------
+English :us: 🥈     | Advanced | Easy       | Every day, All day | 2017
+Polskie :poland: 🥉 | Beginner | Difficult  | 10 minutes a day   | 2022
+Deutsch :de:        | Rookie   | Difficult  | 20 minutes a day   | 2023
+Italiano :it:       | Rookie   | Easy       | Taking a break     | 2023
+Română :romania:    | Rookie   | Medium     | Taking a break     | 2023
+
+[EF SET English Score](https://www.efset.org/cert/XmraJi)
 
 
 [![Rangel's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rangel20&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
