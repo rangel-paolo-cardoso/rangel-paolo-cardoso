@@ -6,11 +6,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rangelcardoso/)](https://www.linkedin.com/in/rangelcardoso/) - [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rangel_paolo/)](https://www.instagram.com/rangel_paolo/) - [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rangelpaolo.cardosobomfim/)](https://www.facebook.com/rangelpaolo.cardosobomfim/) - [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/@RangelPaoloCardoso)](https://www.youtube.com/@RangelPaoloCardoso)
 
 
+## 👋
+Como vai? :brazil:
+How's it going? :us:
+Jak się masz? :poland:
+Wie geht's? :de:
+Come stai? :it:
+Ce mai faci? :romania:
 
-#### 👋
-How's it going? Welcome to my Github repository.
+# Welcome to my Github repository.
 
-Almost 3 years working as a Software Developer. 😀
+#### 3 years working as a Software Developer. 😀
 
 <strong>Rangel Paolo Cardoso Bomfim</strong> is my complete name, but you can call me only <strong>Rangel Cardoso</strong>, and I'm 26. Ever since childhood, I have loved technology even though my parents think it's just fantasizing inside my head. I always believed that someday flying cars would exist, and I won't build them, but perhaps I could program their systems.
 
@@ -54,7 +60,7 @@ Almost 3 years working as a Software Developer. 😀
       <td>Polskie<i title="Polish">:poland:</i>🥉</td>
       <td>Beginner (learning)</td>
       <td>Difficult</td>
-      <td>5 minutes a day</td>
+      <td>10 minutes a day</td>
       <td>2022</td>
     </tr>
     <tr>
@@ -78,13 +84,13 @@ Almost 3 years working as a Software Developer. 😀
       <td>Taking a break</td>
       <td>2023</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>Русский<i title="Russian">:ru:</i></td>
       <td>Struggling with the alphabet yet</td>
       <td>Difficult</td>
       <td>Taking a break</td>
       <td>2023</td>
-    </tr>
+    </tr> -->
   </tbody>
   <tfoot>
     <tr style="text-align: left;">
