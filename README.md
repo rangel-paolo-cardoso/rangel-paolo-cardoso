@@ -2,6 +2,10 @@
 <img align="right" alt="PC GIF" src="https://blog.imarticus.org/wp-content/uploads/2021/12/bwgg.gif" width = "50%" />
 </div>
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rangelcardoso/)](https://www.linkedin.com/in/rangelcardoso/) - [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rangel_paolo/)](https://www.instagram.com/rangel_paolo/) - [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rangelpaolo.cardosobomfim/)](https://www.facebook.com/rangelpaolo.cardosobomfim/) - [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/@RangelPaoloCardoso)](https://www.youtube.com/@RangelPaoloCardoso)
+
+
 ## 👋
 Como vai? :brazil:  
 
@@ -9,11 +13,7 @@ How's it going? :us:
 
 Jak się masz? :poland:  
 
-Wie geht's? :de:  
-
 Come stai? :it:  
-
-Ce mai faci? :romania:
 
 # Welcome to my Github repository.
 
@@ -31,10 +31,8 @@ Portuguese :brazil:🥇| Native | Medium
 Foreign Language    | Level    | Difficulty | Frequency of use   | Learning since
 ------------------- | -------- | ---------- | ------------------ | --------------
 English :us: 🥈     | Advanced | Easy       | Every day, All day | 2017
-Polskie :poland: 🥉 | Beginner | Difficult  | 10 minutes a day   | 2022
-Deutsch :de:        | Rookie   | Difficult  | 20 minutes a day   | 2023
-Italiano :it:       | Rookie   | Easy       | Taking a break     | 2023
-Română :romania:    | Rookie   | Medium     | Taking a break     | 2023
+Polskie :poland: 🥉 | Beginner | Difficult  | 2 hours a day      | 2022
+Italiano :it:       | Rookie   | Easy       | 15 minutes a day   | 2023
 
 [EF SET English Score](https://www.efset.org/cert/XmraJi)
 
